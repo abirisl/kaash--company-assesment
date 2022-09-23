@@ -1,6 +1,7 @@
 import React from 'react';
-import circle from '../images/circle1.png';
-import circle1 from '../images/circle2.png';
+import circle1 from '../images/circle1.png';
+import circle from '../images/circle2.png';
+import '../Component/Content.css'
 
 const ProjectDesign = () => {
     return (

@@ -4,7 +4,7 @@ import { FiMessageCircle } from 'react-icons/fi';
 import { BsInstagram } from 'react-icons/bs';
 import { GrLinkedin } from 'react-icons/gr';
 import logo1 from '../images/logo1.png';
-import logo2 from '../images/logo2.png'
+import logo2 from '../images/logo2.png';
 
 const Contact = () => {
     return (
