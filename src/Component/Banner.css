@@ -1,0 +1,31 @@
+.background{
+    min-height: 90vh;
+    width: 100%;
+    background: rgba(0,0,0,0.7) url('');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover;
+    -moz-background-size:cover ;
+    top:0%;
+    background-blend-mode: darken;
+  
+    
+  }
+  h4:hover{
+    color: orangered;
+    cursor: pointer;
+  }
+  .banner-head{
+    margin-top: 250px;
+    color: orangered;
+  }
+
+  .zoom {
+    transition: transform .2s; /* Animation */
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
