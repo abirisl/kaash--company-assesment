@@ -1,4 +1,5 @@
 import React from 'react';
+import human from '../../images/human.jfif'
 
 const Content = () => {
     return (
@@ -17,7 +18,7 @@ const Content = () => {
                 <p className='text-center pt-5'>Designing with <span className='heading'>light</span> for people, their space and its architecture</p>
                 
                 <h1 className='heading-two text-center'>HUMAN-CENTRIC LIGHTING</h1>
-                <img className='w-50 mx-auto mb-5' src='' alt="" />
+                <img className='w-50 mx-auto mb-5' src={human} alt="" />
                 </div>
             </section>
         </div>
